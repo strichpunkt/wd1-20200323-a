@@ -1,0 +1,10 @@
+.image {
+    padding: 10px;
+    border: 6px pink solid;
+    margin: 20px;
+}
+
+
+.image:hover {
+  border: 6px red solid;
+}

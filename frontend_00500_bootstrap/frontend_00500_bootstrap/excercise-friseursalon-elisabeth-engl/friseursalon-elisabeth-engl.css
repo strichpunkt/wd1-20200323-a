@@ -1,0 +1,26 @@
+#outer-container {
+    width: 80%;
+    margin: 50px auto;
+    }
+
+nav img {
+    height: 20px;
+    }
+
+.carousel-inner {
+    background-colour: black;
+    }
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+    }
+
+#footer li {
+    font-size: 0.9rem;
+    }
+
+#footer img {
+    height: 150px;
+    object-fit: cover;
+    }

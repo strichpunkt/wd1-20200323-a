@@ -1,0 +1,15 @@
+div
+h1
+h2
+h3
+h4
+h5
+h6
+p
+form
+header
+footer
+section
+
+
+div ist das neutrale Block-Element. Ein Block-Element beginnt immer in einer neuen Zeile und wird so breit wie möglich. Weitere gebräuchliche Block-Elemente sind Überschriften h1 bis h6, Absätze p oder Formulare form. In HTML5 sind neue Block-Elemente hinzugekommen, zum Beispiel header, footer und section.

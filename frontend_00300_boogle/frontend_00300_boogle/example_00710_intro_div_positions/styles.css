@@ -1,0 +1,25 @@
+.relative1 {
+   background-color: red;
+   height: 50px;
+   position: relative;
+}
+
+.relative2 {
+    position: relative;
+    height: 50px;
+    top: -20px;
+    left: 20px;
+    background-color: green;
+    width: 500px;
+}
+
+.fixed {
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    background-color: black;
+    color:white;
+}
+

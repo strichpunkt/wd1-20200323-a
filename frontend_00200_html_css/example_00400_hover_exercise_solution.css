@@ -1,0 +1,9 @@
+.mydiv {
+    background-color: red;
+
+}
+
+
+.mydiv:hover {
+    background-color: green;
+}

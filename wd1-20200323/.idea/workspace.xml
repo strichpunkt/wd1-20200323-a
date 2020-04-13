@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab59533-60dc-40a7-8cd2-83ad0693073a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZXDRrp44fl540f2inGlzIQ3CXN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elisa\OneDrive\Dokumente\SmartNinja\webdevelopment1\wd1-20200323\wd1-20200323\frontend_00300_boogle\frontend_00300_boogle\myboogle" />
+      <recent name="C:\Users\elisa\OneDrive\Dokumente\SmartNinja\webdevelopment1\wd1-20200323\wd1-20200323\frontend_00100_simple_html\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\elisa\OneDrive\Dokumente\SmartNinja\webdevelopment1\wd1-20200323\wd1-20200323\frontend_00500_bootstrap\frontend_00500_bootstrap\Übung" />
+      <recent name="C:\smartninja\wd1-20200323" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.example_01010_for_loops_list_exericse">
+    <configuration name="example_00920_list_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wd1-20200323" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class2_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class2_Python3/example_00920_list_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_00940_list_add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wd1-20200323" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class2_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class2_Python3/example_00940_list_add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_01000_for_loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wd1-20200323" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class2_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class2_Python3/example_01000_for_loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_01010_for_loops_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wd1-20200323" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class2_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class2_Python3/example_01010_for_loops_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_01010_for_loops_list_exericse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wd1-20200323" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class2_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class2_Python3/example_01010_for_loops_list_exericse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example_01010_for_loops_list_exericse" />
+        <item itemvalue="Python.example_01010_for_loops_list" />
+        <item itemvalue="Python.example_01000_for_loops" />
+        <item itemvalue="Python.example_00940_list_add" />
+        <item itemvalue="Python.example_00920_list_methods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab59533-60dc-40a7-8cd2-83ad0693073a" name="Default Changelist" comment="" />
+      <created>1584976539241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584976539241</updated>
+      <workItem from="1584976540473" duration="1131000" />
+    </task>
+    <task id="LOCAL-00001" summary="bootstrap exercise">
+      <created>1586713635050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586713635050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bootstrap exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap exercise" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Inspections" timestamp="1586198553620">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Inspections/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586198553620" />
+    <state x="2472" y="183" key="#Intentions" timestamp="1586623527046">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2472" y="183" key="#Intentions/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586623527046" />
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586185160572">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="492" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586185160572" />
+    <state x="2372" y="563" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585591553483">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2372" y="563" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585591553483" />
+    <state x="2264" y="93" key="CommitChangelistDialog2" timestamp="1586713634265">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2264" y="93" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586713634265" />
+    <state x="2012" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1586431734989">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2012" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586431734989" />
+    <state x="2660" y="280" key="FileChooserDialogImpl" timestamp="1586714097574">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2660" y="280" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586714097574" />
+    <state width="398" height="706" key="GridCell.Tab.0.bottom" timestamp="1586466287725">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="398" height="706" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586466287725" />
+    <state width="615" height="922" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586441598484" />
+    <state width="398" height="706" key="GridCell.Tab.0.center" timestamp="1586466287724">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="398" height="706" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586466287724" />
+    <state width="615" height="922" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586441598484" />
+    <state width="398" height="706" key="GridCell.Tab.0.left" timestamp="1586466287724">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="398" height="706" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586466287724" />
+    <state width="615" height="922" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586441598484" />
+    <state width="398" height="706" key="GridCell.Tab.0.right" timestamp="1586466287725">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="398" height="706" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586466287725" />
+    <state width="615" height="922" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586441598484" />
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1586200895734">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586200895734" />
+    <state width="1515" height="265" key="GridCell.Tab.1.center" timestamp="1586200895733">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586200895733" />
+    <state width="1515" height="265" key="GridCell.Tab.1.left" timestamp="1586200895732">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586200895732" />
+    <state width="1515" height="265" key="GridCell.Tab.1.right" timestamp="1586200895733">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586200895733" />
+    <state x="370" y="120" key="SettingsEditor" timestamp="1586195190917">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="370" y="120" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586195190917" />
+    <state x="2383" y="170" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1585232251123" />
+    <state x="525" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1586595203382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="525" y="277" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1586595203382" />
+    <state x="2576" y="349" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1586429749850" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1585252176216">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585252176216" />
+  </component>
+</project>

@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Friseursalon für die geliebten Vierbeiner</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="friseursalon-elisabeth-engl.css">
+</head>
+<body>
+<div id="outer-container">
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#"><img src="cat_logo.png"> Hairdresser Hans</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#services">Our services <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#appointment">Make an appointment</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#faq">FAQ</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#" data-toggle="modal" data-target="#Modal-AboutUs">About us</a>
+      </li>
+    </ul>
+  </div>
+    <!-- Search Form  -->
+         <form class="form-inline">
+         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          </form>
+</nav>
+
+<!-- Carousel -->
+<div id="carousel-cats" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="cat3.jpg" class="d-block w-100 h-auto mx-auto" alt="brushing kitty">
+    </div>
+    <div class="carousel-item">
+      <img src="cat4.jpg" class="d-block w-100 mx-auto" alt="trimming kitty">
+    </div>
+    <div class="carousel-item">
+      <img src="cat5.jpg" class="d-block w-100 mx-auto" alt="shaved kitty">
+    </div>
+  </div>
+    <!--Controls-->
+  <a class="carousel-control-prev" href="#carousel-cats" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-cats" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<hr />
+<!-- Our Services
+    3 cards - 3 columns -->
+<h2 id="services" class="text-center mt-5 mb-4">Our Services</h2>
+    <div class="card-deck">
+        <div class="card">
+            <div class="card-header d-inline-block">
+                <h5 class="mb-0">Styling <i class="fa fa-star float-right"></i></h5>
+            </div>
+          <img class="card-img-bottom d-block" src="katzenbild1.jpg" alt="Katzen-Service">
+            <div class="card-body">Drool meow to be let in swat at dog, or plan steps for world domination. Enslave the hooman crash against wall but walk away like nothing happened yet furrier and even more furrier hairball.</div>
+        </div>
+          <div class="card">
+              <div class="card-header d-inline-block">
+                <h5 class="mb-0">Coloring <i class="fa fa-magic float-right"></i> </h5>
+              </div>
+            <img class="card-img-bottom d-block" src="katzenbild2.jpg" alt="Katzen-Service">
+              <div class="card-body">
+                  Eat prawns daintily with a claw then lick paws clean wash down prawns with a lap of carnation milk then retire to the warmest spot on the couch to claw at the fabric before taking a catnap.
+              </div>
+          </div>
+            <div class="card">
+                <div class="card-header d-inline-block">
+                    <h5 class="mb-0">Haircuts <i class="fa fa-scissors float-right"></i></h5>
+                </div>
+              <img class="card-img-bottom d-block" src="katzenbild3.jpg" alt="Katzen-Service">
+                <div class="card-body">
+                    Scratch my tummy actually i hate you now fight me. I like fish sniff all the things and grass smells good or purr when give birth warm up laptop with butt lick butt fart rainbows until owner yells.
+                </div>
+            </div>
+        </div>
+
+
+<hr class="mb-5"/>
+<!-- Appointment
+    Form and Timetable - 2 columns -->
+    <h2 id="appointment" class="text-center mt-5 mb-4">Make an appointment</h2>
+<!-- Beginning of 2 column container -->
+<div class="container">
+  <!-- Beginning of 1st row -->
+  <div class="row">
+    <!-- Beginning of 1st column -->
+       <div class="col-5 mx-auto">
+        <form>
+            <div class="form-group row">
+              <div class="col-sm">
+                <input type="text" class="form-control" placeholder="First and Last Name" id="name" pattern="[A-Za-z]{}" required>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm">
+                <input type="tel" class="form-control" id="phone" name="phone" maxlength="20" pattern="\d*" placeholder="Phone number e.g. 00436645559898" required>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm">
+                <input type="email" class="form-control" id="email" name="email" placeholder="Email" required>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm">
+                <input type="date" class="form-control" placeholder="Date" required>
+              </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm">
+                        <select class="form-control" id="FormControlSelect-appointment" required>
+                          <option>Styling</option>
+                          <option>Coloring</option>
+                          <option>Haircuts</option>
+                            <option>Inquiry</option>
+                        </select>
+                </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm">
+                <textarea class="form-control" rows="3" id="comment" placeholder="Other info (haircut wishes etc.)"></textarea>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm">
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" id="gridCheck1" required>
+                  <label class="form-check-label" for="gridCheck1">
+                    I agree that Hans is the best friseur
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="form-group row">
+              <div class="col-sm text-center">
+                <button type="submit" class="btn btn-warning">Send</button>
+              </div>
+            </div>
+            </form>
+       </div> <!-- End of 1st column -->
+    <!-- Beginning of 2nd column -->
+       <div class="col-5 mx-auto">
+         <table class="table table-bordered border-secondary">
+          <thead class="bg-secondary text-light">
+            <tr>
+              <th scope="col">Day</th>
+              <th scope="col">Working hours</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Monday</th>
+              <td>08:00-16:00</td>
+            </tr>
+            <tr>
+              <th scope="row">Tuesday</th>
+              <td>10:00-18:00</td>
+            </tr>
+             <tr>
+              <th scope="row">Wednesday</th>
+              <td>08:00-16:00</td>
+            </tr>
+             <tr>
+               <th scope="row">Thursday</th>
+              <td>08:00-16:00</td>
+            </tr>
+            <tr>
+               <th scope="row">Friday</th>
+              <td>12:00-20:00</td>
+            </tr>
+             <tr>
+               <th scope="row">Saturday</th>
+               <td>08:00-16:00</td>
+             </tr>
+          <tr>
+            <th scope="row">Sunday</th>
+            <td>08:00-12:00</td>
+          </tr>
+          </tbody>
+        </table>
+         <p>* We don't work on holidays</p>
+       </div><!-- End of 2nd column -->
+  </div><!-- End of row -->
+</div><!-- End of container -->
+
+<hr class="mb-3"/>
+<!-- Accordion
+    3 Cards - 1 column -->
+<div>
+    <div class="row">
+        <div class="col-8 mx-auto mb-3">
+            <h2 id="faq" class="text-center mt-5 mb-4">FAQ (frequently asked questions</h2>
+              <div class="accordion" id="accordion-faq">
+              <div class="card">
+                <div class="card-header bg-secondary mb-3" id="headingOne">
+                  <h2 class="mb-2">
+                    <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      Howl uncontrollably for no reason thinking longingly about tuna brine
+                    </button>
+                  </h2>
+                </div>
+
+                <div id="collapseOne" class="collapse show pb-4" aria-labelledby="headingOne" data-parent="#accordion-faq">
+                  <div class="card-body">
+            I like cats because they are fat and fluffy catasstrophe meow meow we are 3 small kittens sleeping most of our time, we are around 15 weeks old i think, i don’t know i can’t count. Shake treat bag disappear for four days and return home with an expensive injury; bite the vet but attack feet, so bird bird bird bird bird bird human why take bird out i could have eaten that for annoy kitten brother with poking hey! you there, with the hands but caticus cuteicus.      </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header bg-secondary mb-3" id="headingTwo">
+                  <h2 class="mb-2">
+                    <button class="btn btn-link collapsed text-white" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      Where is my slave? I'm getting hungry hell is other people
+                    </button>
+                  </h2>
+                </div>
+                <div id="collapseTwo" class="collapse pb-4" aria-labelledby="headingTwo" data-parent="#accordion-faq">
+                  <div class="card-body">
+                      Meowwww chill on the couch table, or my left donut is missing, as is my right drool make plans to dominate world and then take a nap and find a way to fit in tiny box. Demand to be let outside at once, and expect owner to wait for me as i think about it as lick i the shoes for rub my belly hiss meow all night having their mate disturbing sleeping humans cat sit like bread eat half my food and ask for more. The cat was chasing the mouse with tail in the air and sleep nap or hell is other people curl into a furry donut for hiiiiiiiiii feed me now but need to check on human, have not seen in an hour might be dead oh look, human is alive, hiss at human, feed me.       </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-header bg-secondary" id="headingThree">
+                  <h2 class="mb-2">
+                    <button class="btn btn-link collapsed text-white" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                      Cough hairball, eat toilet paper experiences
+                    </button>
+                  </h2>
+                </div>
+                <div id="collapseThree" class="collapse pb-4" aria-labelledby="headingThree" data-parent="#accordion-faq">
+                  <div class="card-body">
+                  I'm going to lap some water out of my master's cup meow scratch at door to be let outside, get let out then scratch at door immmediately after to be let back in
+                  Make meme, make cute face loves cheeseburgers but climb leg, or find a way to fit in tiny box. Slap kitten brother with paw sleep nap but nya nya nyan but i am the best or take a big fluffing crap 💩 stinky cat making sure that fluff gets into the owner's eyes.       </div>
+                </div>
+              </div>
+      </div>
+    </div>
+</div>
+<hr class="mb-5"/>
+
+<!-- Modal - About Us -->
+<div class="modal fade" id="Modal-AboutUs" tabindex="-1" role="dialog" aria-labelledby="ModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="ModalCenterTitle">About us</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <p>Panther balinese ocicat grimalkin so siberian norwegian forest. Persian havana brown or ocelot lion donskoy sphynx but jaguar. Munchkin maine coon or puma and savannah for bengal for sphynx. Bengal maine coon for grimalkin or mouser. Balinese . Tom egyptian mau or russian blue. Manx kitten or devonshire rex ocelot grimalkin yet abyssinian egyptian mau. Donskoy savannah ragdoll. Tomcat. Persian bobcat siamese balinese , so scottish fold siamese. Ragdoll bobcat. Kitty himalayan.</p>
+          <p>Balinese persian manx singapura lion or kitten. American shorthair tomcat ocicat. Bengal. Cheetah. Mouser balinese . Scottish fold russian blue for grimalkin so russian blue, but scottish fold malkin. Munchkin burmese and havana brown so havana brown. Siberian. Tiger british shorthair kitten. Malkin tomcat yet bobcat. Sphynx ocicat but tom, tomcat, or siamese or balinese . Tabby balinese ragdoll. Burmese bengal. Tabby persian but panther, for mouser and burmese but russian blue. Malkin. Turkish angora jaguar but lynx.</p>
+          <img class="img-fluid" src="kitty-551554_960_720.jpg">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary mr-auto" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Footer - 3 columns -->
+<div>
+    <div id="footer" class="container">
+      <div class="row align-items-center">
+        <div class="col-3 mx-auto">
+            <address>
+                <ul class="list-unstyled"><h6>Contact</h6>
+                <li>Friseur Hans GmbH</li>
+                <li>Tax number: 324324234</li>
+                <li>Friseurgasse 5, 1020 Wien</li>
+                <li>Phone: 0668/345435346</li>
+                <li>E-Mail: friseur.hans@f-hans.com</li>
+                </ul>
+            </address>
+        </div>
+        <div class="col-2 mx-auto text-center">
+            <img src="cat_logo.png">
+        </div>
+        <div class="col-3 mx-auto">
+            <ul class="list-unstyled"><h6>Navigation</h6>
+                <li><a href="#services">Our services</a></li>
+                <li><a href="#appointment">Make an Appointment</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#" data-toggle="modal" data-target="#Modal-AboutUs">About us</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>

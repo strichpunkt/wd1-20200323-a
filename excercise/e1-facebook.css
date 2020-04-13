@@ -1,0 +1,28 @@
+#main {
+    font-family:tahoma,san-serif;
+     width:50%;
+     margin: 0 auto;">
+    }
+
+img {
+     align: right;
+     height: 150px;
+    }
+
+h1 {
+    font-size: 20px;
+        }
+h2 {
+    font-size: 18px;
+    }
+h3 {
+    font-size: 16px;
+    }
+
+p {
+    font-size: 12px;
+    }
+
+li {
+    font-size: 12px;
+    }

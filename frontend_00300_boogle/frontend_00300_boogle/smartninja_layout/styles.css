@@ -1,0 +1,36 @@
+#navigation {
+    height: 100px;
+    width: auto;
+    background-color: red;
+    margin-bottom: 20px;
+    }
+
+.main {
+    height: 1000px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: red;
+    }
+
+div.inline-square{
+    display: inline-block;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+}
+
+div.parent{
+    height: 1000px;
+    width: 600px;
+    background-color: lightgreen;
+    margin: 0 auto;
+    }
+
+div.child{
+    height: 100px;
+    width: 100px;
+    background-color: darkgreen;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}

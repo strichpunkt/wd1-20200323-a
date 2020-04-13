@@ -1,0 +1,12 @@
+p {
+    /* for tags */
+}
+
+.myclass {
+    /* for classes - mehrere lassen können einem tag zugewiesen werden */
+}
+
+#uniqueid {
+    /* for ids - eine id kann nur einem Tag zugewiesen werden */
+}
+/* CSS cascading stylesheets*/

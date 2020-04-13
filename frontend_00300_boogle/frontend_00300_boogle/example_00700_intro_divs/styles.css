@@ -1,0 +1,18 @@
+.navigation {
+    background-color: red;
+    height: 50px;
+    width: auto;  /* alle 4 seiten */
+}
+
+#main {
+    background-color: blue;
+    width: 600px;
+    height: 50px;
+    margin: 0 auto; /* t/b l/r */
+}
+
+.umakni {
+    background-color: green;
+    margin: 100px;
+    padding: 100px;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <!-- 
+    The X-UA-Compatible meta tag allows web authors to choose what version of Internet Explorer the page should be rendered as. IE11 has made changes to these modes; see the IE11 note below. Microsoft Edge, the browser that will be released after IE11, will only honor the X-UA-Compatible meta tag in certain circumstances. See the Microsoft Edge note below.
+
+    If you need to support IE 9 or IE 8, then I would recommend using the tag. If you only support the latest browsers (IE 11 and/or Edge) then I would consider dropping this tag altogether. 
+      -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!--
+    The width property controls the size of the viewport. It can be set to a specific number of pixels like width=600 or to the special value device-width which is the width of the screen in CSS pixels at a scale of 100%. (There are corresponding height and device-height values, which may be useful for pages with elements that change size or position based on the viewport height.)
+
+    The initial-scale property controls the zoom level when the page is first loaded. The maximum-scale, minimum-scale, and user-scalable properties control how users are allowed to zoom the page in or out.
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Login | Google</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="logo-block">
+        <img src="google-logo.png" class="title-image" width="100px" alt="google logo">
+    </div>
+
+    <div class="title-block">
+        <p class="login-title">One account. All of Google.</p>
+    </div>
+
+    <div class="signin-block">
+        <h1 class="login-text">Sign in with your Google Account</h1>
+
+        <div class="account-wall">
+            <img class="profile-img" src="anonymous.png" alt="profile picture">
+
+            <form class="form-signin">
+                <input type="text" class="form-control" placeholder="Email" required autofocus>
+                <input type="password" class="form-control" placeholder="Password" required>
+
+                <button type="submit">Sign in</button>
+            </form>
+        </div>
+
+        <a href="#" class="new-account">Create an account </a>
+    </div>
+</div>
+</body>
+</html>

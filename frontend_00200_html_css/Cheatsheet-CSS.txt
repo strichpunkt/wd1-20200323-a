@@ -1,0 +1,60 @@
+Cheatsheet: How to Control HTML from CSS
+
+Important site: http://www.w3schools.com/cssref/css_selectors.asp
+
+Attributes: ID, Class, ...
+Things inside html tags
+
+Properties: color, margin, padding,...
+Things that can be defined by Styles/CSS
+
+
+By Tag:
+-------
+
+HMTL: 
+<p> TEXT </p>
+
+CSS:
+p {
+    color: red;
+}
+
+
+
+By ID: (Watch out, IDs should be unique!)
+-----------------------------------
+
+HTML:
+<p id="red"> Text </p>
+
+CSS:
+#red {
+    color: red;
+}
+
+
+
+By Class:
+---------
+
+
+HTML:
+<p class="blue"> Blue Text </p>
+
+CSS:
+.blue {
+    color: blue;
+}
+
+
+
+Import CSS in Head:
+-------------------
+HTML:
+<head>
+    <!-- other code -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+CSS: call filename "style.css", should be in same folder with your html
